@@ -1,0 +1,9 @@
+{
+    "IsDeveloping": true,
+    "KeycloakUrl": "https://accounts.example.local",
+    "StorageConnectionString": "Cloud",
+    "Realm": "Development",
+    "WebsiteUrl": "https://example.local",
+    "ResizeAndConvertImages": true,
+    "ImageResizerApi": "https://api.example.local/image/resize"
+}

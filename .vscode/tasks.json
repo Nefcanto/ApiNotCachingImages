@@ -1,0 +1,10 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "debug",
+            "type": "shell",
+            "command": "sudo dotnet build /Sceo/SiteApi/Api.csproj /property:GenerateFullPaths=true /consoleloggerparameters:NoSummary; sudo chmod -R 777 /Sceo"
+        }
+    ]
+}
